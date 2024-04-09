@@ -1,5 +1,5 @@
 # 💫 關於:
-全端開發小白(10%前端，90%後端)<br>實作讚，考試爛<br>自稱黃金中的垃圾(還是垃圾)<br>這樣就可以嘲笑那群黃金的能力還不如我<br>最近學習怎麼寫CleanCode，好看好維護!
+全端開發小白(10%前端，90%後端)<br>實作讚，考試爛<br>自稱黃金中的垃圾(還是垃圾)<br>這樣就可以嘲笑那群黃金的能力還不如我<br>最近學習怎麼寫CleanCode，好看好維護! <br> 還有玩一下github
 
 
 # 💻 Tech Stack:
@@ -28,11 +28,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NameCallBob&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NameCallBob&icon=0&color=0)](https://visitcount.itsvg.in)
