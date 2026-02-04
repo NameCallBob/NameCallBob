@@ -1,6 +1,70 @@
-# 💫 關於:
-全端開發小白(10%前端，90%後端)<br>實作讚，考試爛<br>好久沒有認識很強的人了<br>你很強嗎？
+# 👋 About Me
 
+後端軟體工程師，主要以 **Django** 為核心進行系統與微服務設計。  
+實務重心放在 **電商系統、權限控管、訂單流程、AI 結果系統化落地**，長期處理「模型輸出 × 商業系統 × 可維運架構」之間的落差問題。  
+開發取向偏向工程驗證與資料一致性，不假設 AI 或第三方服務必然可靠。
+
+---
+
+## 🔧 Technical Focus
+
+**Backend & Architecture**
+- Django / Django REST Framework  
+- Microservices（多服務拆分與獨立部署）  
+- JWT（RS256）、Token 發行與撤銷  
+- Policy-Based Access Control（PBAC）  
+- Celery / Celery Beat  
+- MySQL、Redis  
+- Docker、容器化部署  
+- Logging & Monitoring（Grafana / Loki / Promtail）
+
+**Frontend & Client Integration**
+- React（Web）  
+- Flutter（App）  
+- REST API 整合、JWT 自動刷新、401 容錯設計  
+
+**AI & Data Integration**
+- AI 指甲尺寸量測結果系統化（mm 級）  
+- 模型版本控管、信心值與重算機制  
+- YOLOv8、TensorRT（推理加速實作）  
+- 影像增強（EnlightenGAN、CLAHE）
+
+---
+
+## 📌 Selected Projects
+
+**AI 指甲尺寸量測與客製化電商系統**
+- 設計單指獨立尺寸資料模型（左右手、指頭級、mm 單位）  
+- AI 僅作為建議來源，保留人工修正與重選流程  
+- 尺寸結果實際串接商品規格、穿戴甲與凝膠指甲貼選擇機制  
+
+**電商後端微服務系統**
+- 會員、商品、多語系、訂單、訂閱制與優惠模組  
+- 金流／物流透過第三方服務串接，系統僅保存必要狀態  
+- 訂單狀態流轉具備完整歷史紀錄與可追溯性  
+
+**權限與驗證系統**
+- 自行設計 PBAC 權限模型，避免角色硬編碼  
+- 權限判斷集中於 middleware，業務邏輯僅依結果執行  
+- 支援服務間 Token、黑名單撤銷與行為紀錄  
+
+---
+
+## 🧠 Engineering Principles
+
+- 不假設 AI 輸出一定正確  
+- 權限邏輯與業務邏輯嚴格分離  
+- 不重複保存第三方金流／物流資料  
+- 設計與可維運性優先於快速堆功能  
+- 系統需可理解、可接手、可長期擴充  
+
+---
+
+## 📂 GitHub Usage
+
+- 作為專案版本控管與架構演進紀錄  
+- README 清楚交代「做了什麼、限制在哪」  
+- Commit 訊息著重功能變更與設計意圖，而非行銷描述  
 
 # 💻 Tech Stack:
 ### Server
